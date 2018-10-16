@@ -4,9 +4,7 @@
 
 !/.gitignore
 
-#wm
 !/i3/
-#polybar
 !/polybar/
-#nvim
 !/vim/
+!/dunst/
